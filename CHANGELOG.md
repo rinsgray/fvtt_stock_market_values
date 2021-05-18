@@ -1,3 +1,8 @@
+1.2.0
+--
+* This version was checked and is now officially compatible with Foundry 0.8.x
+
+
 1.1.6
 --
 * Added a Chinese language localisation file. Many thanks to user [hmqgg](https://github.com/hmqgg)!
