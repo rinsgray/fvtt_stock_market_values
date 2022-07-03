@@ -1,7 +1,7 @@
 {
-  "name": "fvtt-party-resources",
-  "title": "Party Resources",
-  "description": "Create and track custom party resources.",
+  "name": "fvtt-stock_values",
+  "title": "In-game stock values",
+  "description": "Create and track in-game companies stock",
   "author": "Dave Lens",
   "url": "https://github.com/davelens/fvtt-party-resources",
   "manifest": "https://github.com/davelens/fvtt-party-resources/releases/latest/download/module.json",
